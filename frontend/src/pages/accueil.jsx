@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './pages.css'; // Assurez-vous que le chemin est correct
 const Accueil = () => {
   return (
